@@ -31,5 +31,5 @@ Regexone offre une solution pour chaque exercice.
 Mot croisé : Il est difficile pour moi de faire un corrigé... désolé. 
 
 Golf : 
-`?!` => negation : ex (?!.*abba) => ne contient pas abba 
+`?!` => negation : ex ^(?!.*abba) => ne contient pas abba 
 
