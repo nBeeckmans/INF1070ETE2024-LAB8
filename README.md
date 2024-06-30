@@ -28,7 +28,7 @@ $ cat professeurs.txt | grep -oE "\w*(\.\w*)+@uqam.ca"
 
 Regexone offre une solution pour chaque exercice. 
 
-Mot croisé : Il est difficile pour moi de faire un corrigé... désolé. 
+Mot croisé : Il est difficile pour moi de faire un corrigé... désolé. Si vous avez des questions, n'hésitez pas à me demander de l'aide.
 
 Golf : 
 `?!` => negation : ex ^(?!.*abba) => ne contient pas abba 
